@@ -3,5 +3,5 @@ In this repository, all the works I have participated and contributed as a part 
 
 ## Table of Contents
 * [Semester 1](https://github.com/satoaki1/What-I-worked-in-University/tree/main/semester-one)
-* [Semester 2](#semester-two)
-* [Semester 2.5](#semester-twoandhalf)
+* [Semester 2](https://github.com/satoaki1/What-I-worked-in-University/tree/main/semester-two)
+* [Semester 2.5](https://github.com/satoaki1/What-I-worked-in-University/tree/main/semester-twoandhalf)
